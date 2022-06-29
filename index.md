@@ -10,7 +10,7 @@
 # Final Milestone
 My final milestone consists of various smaller ones, such as wireless connections involving Bluetooth, more buttons and even a knob, and much more complex abilities, as opposed to before. Each button is connected to two wires, one to the ESP32 WROOM 32D, a bluetooth and Wifi module, which makes it superior to the Arduino Uno in this case, and the other wire is connected to a ground so that the circuit can be completed properly. The knob works similarly to the button, with additional wires due to a more complex input system from the knob. The system gets its power from a black box which is supplied with 4 AA batteries. Various issues and obstacles came up as expected, such as libraries being unidentified in the coding portion of it, as well as various hardware issues such as crating accidental short-circuits and the various issues that popped up whne the controller was connected to the computer, as it had no way of recieving input at the time.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1656530226/video_to_markdown/images/youtube--W7x7V-Vu5jY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=W7x7V-Vu5jY "Bluetooth Zoom Controller Second Milestone"){:target="_blank" rel="noopener"}
  
 
 # First Milestone  

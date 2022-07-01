@@ -8,6 +8,8 @@
 ![Final Project](https://user-images.githubusercontent.com/107717618/176519935-f29cb116-8753-47f1-bb6d-8ff35715d055.jpg)
 ![parts_info](https://user-images.githubusercontent.com/107717618/176962325-a191fe89-86d6-436b-b4f7-d4595889ad60.jpg)
 
+Building instructions: https://docs.google.com/document/d/1UvIXWb9zYw7yDkDU2u_Zi0vqahhcWTIuC-dZuAwVC5g/edit?usp=sharing 
+
 
 # Final Milestone
 My final milestone consists of various smaller ones, such as wireless connections involving Bluetooth, more buttons and even a knob, and much more complex abilities, as opposed to before. Each button is connected to two wires, one to the ESP32 WROOM 32D, a bluetooth and Wifi module, which makes it superior to the Arduino Uno in this case, and the other wire is connected to a ground so that the circuit can be completed properly. The knob works similarly to the button, with additional wires due to a more complex input system from the knob. The system gets its power from a black box which is supplied with 4 AA batteries. Various issues and obstacles came up as expected, such as libraries being unidentified in the coding portion of it, as well as various hardware issues such as crating accidental short-circuits and the various issues that popped up whne the controller was connected to the computer, as it had no way of recieving input at the time.

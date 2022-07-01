@@ -6,7 +6,7 @@
 | Alex D. | Dougherty Valley High School | Software Engineering | Incoming Junior
 
 ![Final Project](https://user-images.githubusercontent.com/107717618/176519935-f29cb116-8753-47f1-bb6d-8ff35715d055.jpg)
-(![parts_info](https://user-images.githubusercontent.com/107717618/176962325-a191fe89-86d6-436b-b4f7-d4595889ad60.jpg)
+![parts_info](https://user-images.githubusercontent.com/107717618/176962325-a191fe89-86d6-436b-b4f7-d4595889ad60.jpg)
 
 
 # Final Milestone
